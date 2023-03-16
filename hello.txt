@@ -7,5 +7,7 @@ hello kk!hello git
 this is a modification test
 ===========================
 now,here is hot-fix branch,i am doing a experiment about branch merge
+--------
+here is master branch, i am doing a experiment about branch merge with conficting modify
 
 
