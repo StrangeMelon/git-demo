@@ -3,11 +3,6 @@ hello kk!hello git!
 hello kk!hello git!
 hello kk!hello git!
 hello kk!hello git!
-hot-fix conflict merge test
-this is a modification test
-===========================
-now,here is hot-fix branch,i am doing a experiment about branch merge
---------
-here is master branch, i am doing a experiment about branch merge with conficting modify
-
-
+hello kk!hello git!
+hello kk!hello git!
+master test
