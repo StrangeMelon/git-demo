@@ -4,5 +4,5 @@ hello kk!hello git!
 hello kk!hello git!
 hello kk!hello git!
 hello kk!hello git!
-hello kk!hello git!
+hello kk!hello git! conflict test
 master test
